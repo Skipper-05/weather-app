@@ -3,6 +3,4 @@
 </p>
 
 
-```
-npm i && npm start
-```
+
